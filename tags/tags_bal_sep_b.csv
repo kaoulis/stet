@@ -1,0 +1,44 @@
+Tag Name;Description
+a_BAL_SEPB_A_HV_Neg_kV_PV;App Script Mapped from
+a_BAL_SEPB_A_HV_Neg_kV_SP;App Script Mapped from
+a_BAL_SEPB_A_HV_Neg_mA_PV;App Script Mapped from
+a_BAL_SEPB_A_HV_Pos_kV_PV;App Script Mapped from
+a_BAL_SEPB_A_HV_Pos_kV_SP;App Script Mapped from
+a_BAL_SEPB_A_HV_Pos_mA_PV;App Script Mapped from
+a_BAL_SEPB_AmbientRH;App Script Mapped from
+a_BAL_SEPB_AmbientTemp;App Script Mapped from
+a_BAL_SEPB_ATransAirRH;App Script Mapped from
+a_BAL_SEPB_ATransAirTemp;App Script Mapped from
+a_BAL_SEPB_Belt_FT;Feed Tons - SEPB_PLC - F8:2
+a_BAL_SEPB_Belt_FTD;Feed Tons To Dome - SEPB_PLC - F8:9
+a_BAL_SEPB_Belt_FTG;Feed Tons Good - SEPB_PLC - F8:8
+a_BAL_SEPB_Belt_FTGT;Feed Tons To Dome and Silo - SEPA_PLC - F8:12
+a_BAL_SEPB_Belt_FTS3;Feed Tons To Silo 3 - SEPB_PLC - F8:10
+a_BAL_SEPB_Belt_Gap;
+a_BAL_SEPB_Belt_Run_Hours;Belt Run Hours
+a_BAL_SEPB_Belt_Speed_PV;Mapped From SepB_M1_SpeedX10 - N14:1 in PLC
+a_BAL_SEPB_Belt_Time;Belt Run Time From SEPB_PLC - N11:42
+a_BAL_SEPB_Belt_Tons;Belt Run Tons From SEPB_PLC - F8:1
+a_BAL_SEPB_E1_Torque_PV;SEPB_PLC - N14:2
+a_BAL_SEPB_E2_Torque_PV;SEPB_PLC - N14:4
+a_BAL_SEPB_Feed_PV;App Script Mapped from
+a_BAL_SEPB_Feeder_CV;
+a_BAL_SEPB_Feeder_PV;
+a_BAL_SEPB_Feeder_SP;
+a_BAL_SEPB_FeedRH;App Script Mapped from
+a_BAL_SEPB_FeedTemp;App Script Mapped from
+a_BAL_SEPB_M1_Speed_PV;SEPB_PLC - N14:1
+a_BAL_SEPB_M2_Speed_PV;SEPB_PLC - N14:3
+a_BAL_SEPB_Q_C_FI;Carbon - Foam Index - Lab Data - Input by Operator
+a_BAL_SEPB_Q_C_LOI;Carbon  - Loss On Ignition - Lab Data - Input by Operator
+a_BAL_SEPB_Q_DT;When the Sample Button was pressed
+a_BAL_SEPB_Q_F_FI;Feed - Foam Index - Lab Data - Input by Operator
+a_BAL_SEPB_Q_F_LOI;Feed - Loss On Ignition - Lab Data - Input by Operator
+a_BAL_SEPB_Q_P_FI;Product - Foam Index - Lab Data - Input by Operator
+a_BAL_SEPB_Q_P_LOI;Product - Loss On Ignition - Lab Data - Input by Operator
+a_BAL_SEPB_Q_PC_LOI;Promecon - Loss On Ignition - Lab Data - Input by Operator
+a_BAL_SEPB_Q_Y;Yeild - Input by Operator
+a_BAL_BOPB_Q_Carbon_Blower_Pressure;
+a_BAL_BOPB_Q_Carbon_Pump_Current;
+a_BAL_BOPB_Q_Mineral_Blower_Pressure;
+a_BAL_BOPB_Q_Mineral_Pump_Current;
