@@ -1,0 +1,15 @@
+;Feature;lag_window;value
+11;a_BAL_SEPA_a_Speed_PV_mean;0_0;0.81456665
+2;a_BAL_SEPA_ACarPump\Ampsx10_mean;96_54;0.625319677
+3;a_BAL_SEPA_AMinBlwr\PressX10_mean;6_0;0.498238977
+6;a_BAL_SEPA_A_HV_Neg_mA_PV_mean;0_6;0.413759009
+4;a_BAL_SEPA_AMinPump\Ampsx10_mean;6_54;0.387928225
+14;a_BAL_SEPA_AAshFeeder\PVx10_mean;0_54;0.372684677
+15;a_BAL_SEPA_Feed_RH_mean;0_54;0.326212749
+8;a_BAL_SEPA_A_HV_Pos_mA_PV_mean;0_0;0.317534121
+16;a_BAL_SEPA_feed_Temp_mean;0_0;0.313523752
+1;a_BAL_SEPA_ACarBlwr\PressX10_mean;12_0;0.293517471
+5;a_BAL_SEPA_A_HV_Neg_kV_PV_mean;0_18;0.257774034
+7;a_BAL_SEPA_A_HV_Pos_kV_PV_mean;6_0;0.217663938
+9;a_BAL_SEPA_AmbientTemp_mean;0_0;0.157327795
+10;a_BAL_SEPA_A_Belt_Gap_mean;0_0;0.050745665
